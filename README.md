@@ -12,7 +12,7 @@ The following are explicitly forbidden on Offline:
 
 ## 3. Reporting Mechanisms
 Users can report violations via:
-- **Email:** support@offline-social.com.
+- **Email:** offlinehelp2025@gmail.com.
 
 Please attach screenshots, users and posts content in the email. Reports are reviewed within 48 hours, and appropriate action is taken.
 
