@@ -30,4 +30,4 @@ We adhere to:
 ---
 
 **Last Updated:** Apr. 7th, 2025 
-**Contact:** support@offline-social.com 
+**Contact:** offlinehelp2025@gmail.com
